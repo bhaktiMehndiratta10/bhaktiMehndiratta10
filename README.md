@@ -33,8 +33,9 @@
 <div align="center">
 
   <a href="https://github.com/bhaktiMehndiratta10/Durga-Woman_Safety_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Woman_Safety_App&theme=vue" alt="Durga Safety App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Woman_Safety_App&theme=vue&cache_seconds=1" alt="Durga Safety App" />
 </a>
+
 
   <a href="https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=vue" alt="Computer Vision Playground" />
