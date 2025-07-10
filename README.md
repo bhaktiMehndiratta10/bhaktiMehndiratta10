@@ -1,7 +1,7 @@
 ## Welcome to my Github Profile 👋
 
 
-## 🧩 Programming Languages
+## Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,7 +13,7 @@
 </p>
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   
@@ -28,7 +28,7 @@
 
 
 
-## 🚀 Featured Projects (click to explore)
+## Featured Projects (click to explore)
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 
 
-## ✨ Beyond code
+## Beyond code
 
 - 📝 Poetess 
 - 📚 Reader & researcher  
