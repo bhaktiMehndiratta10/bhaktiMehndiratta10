@@ -46,6 +46,30 @@
 
 </div>
 
+---
+
+## 💼 Experience
+
+- **SQL & Data Analytics Intern** @ Celebal Technologies  
+  Worked on SQL Server Management Studio (SSMS), applying SQL skills to real‑world data projects.
+
+- **Cybersecurity Essentials** @ CISCO  
+  Completed hands‑on training covering network security, vulnerability analysis, and incident response.
+
+---
+
+## 📑 Research Publications
+
+- *Industrial Automation Using VR and AI* – Published in IEEE Conference Proceedings, 2023.
+- *AI‑Driven Comprehensive Cardiovascular Health Management System* – Accepted in a Scopus‑indexed journal.
+
+---
+
+## 📜 Certifications
+
+- Python Essentials – LinkedIn Learning, 2025
+- Cybersecurity & Ethical Hacking – IIT Madras Pravartak, 2024
+- Blockchain Foundation – MetaCrafters, 2023
 
 
 
