@@ -16,12 +16,13 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-FF1493?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge"/>
 </p>
 
@@ -32,8 +33,8 @@
 <div align="center">
 
   <a href="https://github.com/bhaktiMehndiratta10/Durga-Woman_Safety_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=vue" alt="Durga Safety App" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Woman_Safety_App&theme=vue" alt="Durga Safety App" />
+</a>
 
   <a href="https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=vue" alt="Computer Vision Playground" />
