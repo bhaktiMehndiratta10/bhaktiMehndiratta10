@@ -13,7 +13,7 @@
 </p>
 
 
-## Tech Stack
+## Technical Skills
 
 <p align="center">
   
@@ -50,18 +50,18 @@
 
 ## Experience
 
-- **SQL & Data Analytics Intern** @ Celebal Technologies  
+- **SQL Developer Intern @ Celebal Technologies**
   Worked on SQL Server Management Studio (SSMS), applying SQL skills to real‑world data projects.
 
-- **Cybersecurity Essentials** @ CISCO  
-  Completed hands‑on training covering network security, vulnerability analysis, and incident response.
+- **Cybersecurity Training & Project @ CISCO** 
+  Completed hands‑on training and project covering network security, vulnerability analysis, and incident response.
 
 
 
 ## Research Publications
 
-- *Industrial Automation Using VR and AI* – Published in IEEE Conference Proceedings, 2023.
-- *AI‑Driven Comprehensive Cardiovascular Health Management System* – Accepted in a Scopus‑indexed journal.
+- *Industrial Automation Using VR and AI* – Published in IEEE Conference Proceedings,2023
+- *AI‑Driven Comprehensive Cardiovascular Health Management System* – Accepted for publication in a Scopus‑indexed journal, expected August 2025
 
 
 
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=bhaktimehndiratta10@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=bhaktimehndiratta@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
