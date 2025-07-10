@@ -1,15 +1,14 @@
 ## Welcome to my Github Profile 👋
-<h1 align="center">🌟 Hey there! Welcome to my GitHub universe 🌟</h1>
 
 <p align="center">
 B.Tech CSE Student | App & Blockchain Developer | ML Enthusiast on a mission to turn ideas into impact
 </p>
 
 <p align="center">
-  <a href="mailto:bhaktimehndiratta10@gmail.com">
+  <a href="mailto:bhaktimehndiratta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/bhakti-mehndiratta">
+  <a href="https://www.linkedin.com/in/bhakti-mehndiratta-3a6612290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
