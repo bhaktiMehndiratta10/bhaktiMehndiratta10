@@ -43,15 +43,15 @@
 
 <div align="center">
 
-  <a href="https://github.com/bhaktiMehndiratta10/Durga-Safety-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=radical" alt="Durga Safety App"/>
+  <a href="https://github.com/bhaktiMehndiratta10/Durga-Woman_Safety_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=radical" alt="Durga - Woman Safety App"/>
   </a>
 
-  <a href="https://github.com/bhaktiMehndiratta10/Computer-Vision-Playground">
+  <a href="https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer-Vision-Playground&theme=radical" alt="Computer Vision Playground"/>
   </a>
 
-  <a href="https://github.com/bhaktiMehndiratta10/Driver-Drowsiness-Detection">
+  <a href="https://github.com/bhaktiMehndiratta10/Driver_Drowsiness_Detection_System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver-Drowsiness-Detection&theme=radical" alt="Driver Drowsiness Detection"/>
   </a>
 
