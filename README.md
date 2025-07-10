@@ -29,16 +29,22 @@
 
 ## 🚀 Featured Projects (click to explore)
 
----
 
-## 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|--|--|--|
-| [**Durga Safety App**](https://github.com/bhaktiMehndiratta10/Durga-Safety-App) | Women’s safety app with real-time alerts & emergency contacts | Flutter, Firebase |
-| [**Computer Vision Playground**](https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground) | Experiments in object detection, image segmentation, etc. | Python, OpenCV |
-| [**Driver Drowsiness Detection**](https://github.com/bhaktiMehndiratta10/Driver_Drowsiness_Detection_System) | Real-time detection using EAR (Eye Aspect Ratio) | Python, Dlib, OpenCV |
+  <a href="https://github.com/bhaktiMehndiratta10/Durga-Safety-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=radical" alt="Durga Safety App" />
+  </a>
 
+  <a href="https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=radical" alt="Computer Vision Playground" />
+  </a>
+
+  <a href="https://github.com/bhaktiMehndiratta10/Driver_Drowsiness_Detection_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver_Drowsiness_Detection_System&theme=radical" alt="Driver Drowsiness Detection" />
+  </a>
+
+</div>
 
 
 
