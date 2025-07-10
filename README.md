@@ -33,23 +33,22 @@
 <div align="center">
 
   <a href="https://github.com/bhaktiMehndiratta10/Durga-Woman_Safety_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Woman_Safety_App&theme=vue&cache_seconds=1" alt="Durga Safety App" />
-</a>
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Woman_Safety_App&theme=vue&cache_seconds=1" alt="Durga Safety App" />
+  </a>
 
   <a href="https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=vue" alt="Computer Vision Playground" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=vue&cache_seconds=1" alt="Computer Vision Playground" />
   </a>
 
   <a href="https://github.com/bhaktiMehndiratta10/Driver_Drowsiness_Detection_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver_Drowsiness_Detection_System&theme=vue" alt="Driver Drowsiness Detection" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver_Drowsiness_Detection_System&theme=vue&cache_seconds=1" alt="Driver Drowsiness Detection" />
   </a>
 
 </div>
 
----
 
-## 💼 Experience
+
+## Experience
 
 - **SQL & Data Analytics Intern** @ Celebal Technologies  
   Worked on SQL Server Management Studio (SSMS), applying SQL skills to real‑world data projects.
@@ -57,16 +56,16 @@
 - **Cybersecurity Essentials** @ CISCO  
   Completed hands‑on training covering network security, vulnerability analysis, and incident response.
 
----
 
-## 📑 Research Publications
+
+## Research Publications
 
 - *Industrial Automation Using VR and AI* – Published in IEEE Conference Proceedings, 2023.
 - *AI‑Driven Comprehensive Cardiovascular Health Management System* – Accepted in a Scopus‑indexed journal.
 
----
 
-## 📜 Certifications
+
+## Certifications
 
 - Python Essentials – LinkedIn Learning, 2025
 - Cybersecurity & Ethical Hacking – IIT Madras Pravartak, 2024
