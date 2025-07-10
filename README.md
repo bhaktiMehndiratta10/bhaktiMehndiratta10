@@ -1,8 +1,5 @@
 ## Welcome to my Github Profile 👋
 
-<p align="center">
-B.Tech CSE Student | App & Blockchain Developer | ML Enthusiast on a mission to turn ideas into impact
-</p>
 
 <p align="center">
   <a href="mailto:bhaktimehndiratta@gmail.com">
