@@ -21,7 +21,7 @@
 </p>
 
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -37,17 +37,25 @@
 
 ## 🚀 Featured Projects (click to explore)
 
-<p align="center">
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
   <a href="https://github.com/bhaktiMehndiratta10/Durga-Safety-App">
-    <img src="https://img.shields.io/badge/Durga%20Safety%20App-FF69B4?style=for-the-badge" alt="Durga Safety App"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=radical" alt="Durga Safety App"/>
   </a>
-  <a href="https://github.com/bhaktiMehndiratta10/Heart-Health-Management-System">
-    <img src="https://img.shields.io/badge/Heart%20Health%20Management-FF4500?style=for-the-badge" alt="Heart Health"/>
+
+  <a href="https://github.com/bhaktiMehndiratta10/Computer-Vision-Playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer-Vision-Playground&theme=radical" alt="Computer Vision Playground"/>
   </a>
+
   <a href="https://github.com/bhaktiMehndiratta10/Driver-Drowsiness-Detection">
-    <img src="https://img.shields.io/badge/Driver%20Drowsiness%20Detection-6495ED?style=for-the-badge" alt="Driver Drowsiness"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver-Drowsiness-Detection&theme=radical" alt="Driver Drowsiness Detection"/>
   </a>
-</p>
+
+</div>
 
 
 
