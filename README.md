@@ -29,40 +29,28 @@
 
 ## 🚀 Featured Projects (click to explore)
 
-
 <div align="center">
 
-  <a href="https://github.com/bhaktiMehndiratta10/Durga-Safety-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=radical" alt="Durga Safety App" />
+  <a href="https://github.com/bhaktiMehndiratta10/Durga-Woman_Safety_App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Durga-Safety-App&theme=vue" alt="Durga Safety App" />
   </a>
 
   <a href="https://github.com/bhaktiMehndiratta10/Computer_Vision_Playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=radical" alt="Computer Vision Playground" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Computer_Vision_Playground&theme=vue" alt="Computer Vision Playground" />
   </a>
 
   <a href="https://github.com/bhaktiMehndiratta10/Driver_Drowsiness_Detection_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver_Drowsiness_Detection_System&theme=radical" alt="Driver Drowsiness Detection" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktiMehndiratta10&repo=Driver_Drowsiness_Detection_System&theme=vue" alt="Driver Drowsiness Detection" />
   </a>
 
 </div>
 
 
 
-## 📚 Quick about me
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-- 🛠 **Intern @ Celebal Technologies**: worked on SQL Server Management Studio (SSMS), applied SQL skills to real‑world data projects
-- 🔐 **Cybersecurity essentials** (CISCO)
-- 🧪 **Research published**:
-  - *Industrial Automation using VR & AI* (IEEE)
-  - *AI‑Driven Cardiovascular Health System* (Scopus accepted)
-- 🏅 **Certifications**: Python (LinkedIn), Blockchain (MetaCrafters), Ethical Hacking (IIT Madras)
-
-
 
 ## ✨ Beyond code
 
-- 📝 Poetess & chess player  
+- 📝 Poetess 
 - 📚 Reader & researcher  
 - 🎤 Love anchoring & public speaking
 
